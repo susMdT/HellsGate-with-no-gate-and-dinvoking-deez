@@ -1,0 +1,7 @@
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\bin\x86\Release\Jit Tripping.exe.config
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\bin\x86\Release\Jit Tripping.exe
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\bin\x86\Release\Jit Tripping.pdb
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\obj\x86\Release\Jit Tripping.csproj.CoreCompileInputs.cache
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\obj\x86\Release\Jit Tripping.exe
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\obj\x86\Release\Jit Tripping.pdb
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\obj\x86\Release\Jit Tripping.csproj.AssemblyReference.cache

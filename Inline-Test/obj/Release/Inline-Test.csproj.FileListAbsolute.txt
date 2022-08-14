@@ -1,0 +1,6 @@
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Inline-Test\bin\Release\Inline-Test.exe
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Inline-Test\bin\Release\Inline-Test.pdb
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Inline-Test\obj\Release\Inline-Test.csproj.AssemblyReference.cache
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Inline-Test\obj\Release\Inline-Test.csproj.CoreCompileInputs.cache
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Inline-Test\obj\Release\Inline-Test.exe
+C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Inline-Test\obj\Release\Inline-Test.pdb
