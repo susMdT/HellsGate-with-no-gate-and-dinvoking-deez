@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-namespace Jit_Tripping
+namespace DotNet
 {
     class Delegates
     {

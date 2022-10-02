@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Reflection;
-namespace Jit_Tripping
+namespace DotNet
 {
     public class dll
     {

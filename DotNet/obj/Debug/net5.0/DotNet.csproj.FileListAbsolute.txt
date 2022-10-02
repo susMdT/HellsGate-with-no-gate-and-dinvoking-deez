@@ -1,0 +1,16 @@
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\bin\Debug\net5.0\DotNet.exe
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\bin\Debug\net5.0\DotNet.deps.json
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.json
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.dev.json
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\bin\Debug\net5.0\DotNet.dll
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\bin\Debug\net5.0\ref\DotNet.dll
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\bin\Debug\net5.0\DotNet.pdb
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.csproj.AssemblyReference.cache
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfoInputs.cache
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfo.cs
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.csproj.CoreCompileInputs.cache
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.dll
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\ref\DotNet.dll
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.pdb
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\DotNet\obj\Debug\net5.0\DotNet.genruntimeconfig.cache

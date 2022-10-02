@@ -5,3 +5,10 @@ C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit 
 C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\obj\Release\Jit Tripping.exe
 C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\obj\Release\Jit Tripping.pdb
 C:\Users\trand\OneDrive\Desktop\Definetaly Malware\Jit Trippin\Jit Tripping\Jit Tripping\obj\Release\Jit Tripping.csproj.AssemblyReference.cache
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\Jit Tripping\obj\Release\Jit Tripping.csproj.AssemblyReference.cache
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\Jit Tripping\obj\Release\Jit Tripping.csproj.CoreCompileInputs.cache
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\Jit Tripping\obj\Release\Jit Tripping.pdb
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\Jit Tripping\bin\Release\Jit Tripping.exe.config
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\Jit Tripping\bin\Release\Jit Tripping.exe
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\Jit Tripping\bin\Release\Jit Tripping.pdb
+D:\Probably Malware\HellsGate-with-no-gate-and-dinvoking-deez\Jit Tripping\obj\Release\Jit Tripping.exe

